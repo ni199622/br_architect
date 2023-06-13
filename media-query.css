@@ -1,0 +1,13 @@
+@media(min-width: 769px) and (max-width: 1024px) {
+    /*css styles for small screens and laptops*/
+}
+@media(min-width: 481px) and (max-width: 768px) {
+    /* css styles for ipads and tablets*/
+}
+@media(min-width: 320px)and(max-width:480px){
+    /*css styles for mobile devices*/
+}
+@media (max-width:320px) {
+    /*css styles for mobile devices*/
+    
+}
